@@ -1,0 +1,14 @@
+{
+    "City": "London",
+    "Country_Code": "GB",
+    "Country_Name": "United Kingdom",
+    "Date": "Monday, September 29, 2025",
+    "Time": "07:45 PM",
+    "Weather Condition": "Overcast Clouds",
+    "Temperature (\u00b0C)": 14.3,
+    "Feels like (\u00b0C)": 13.4,
+    "Wind Speed (m/s)": 1.15,
+    "Humidity (%)": 61,
+    "Cloud Cover (%)": 100,
+    "Pressure (hPa)": 1025
+}
